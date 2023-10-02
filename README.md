@@ -13,3 +13,5 @@ Outlaw map sprites by sshx
 https://github.com/Klokinator/FE-Repo/blob/main/Map%20Sprites/Lords%20-%20Vanilla%20and%20Custom/Lord%20(M)%20Ephraim%20Bow%20%7BSSHX%7D-stand.png
 Hunter animations by DertheVaporeon
 https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Bow)%20Archers%20and%20Hunters/%5BArcher-Reskin%5D%20%5BF%5D%20Der's%20Short%20Hair
+Douglas Portrait made by PkMnBro1
+https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/Spriting%20Community%20OC's%20(Grouped%20by%20Artist)/PkMnBro1%20-%20Hans.png 

@@ -19,3 +19,5 @@ Male Mage Knight animations by teraspark
 https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Base%5D%20%5BM%5D%20Vanilla%20%2BWeapons
 Female Mage Knight animations by unknown
 https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Base%5D%20%5BF%5D%20Vanilla%20%2BWeapons
+Sentinel Class Card by TBA
+https://github.com/Klokinator/FE-Repo/blob/main/Class%20Cards/Infantry%20-%20(Lnc)%20Soldiers%2C%20Halberdiers/Halberdier%20(M)%20Lance%20%7BTBA%7D.png

@@ -21,3 +21,9 @@ Female Mage Knight animations by unknown
 https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Base%5D%20%5BF%5D%20Vanilla%20%2BWeapons
 Sentinel Class Card by TBA
 https://github.com/Klokinator/FE-Repo/blob/main/Class%20Cards/Infantry%20-%20(Lnc)%20Soldiers%2C%20Halberdiers/Halberdier%20(M)%20Lance%20%7BTBA%7D.png
+Peon animations by Salvaged
+https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BF%5D%20Lancer%20by%20SALVAGED
+Peon Class Card by Salvaged
+https://github.com/Klokinator/FE-Repo/blob/main/Class%20Cards/Infantry%20-%20(Lnc)%20Soldiers%2C%20Halberdiers/Lancer%20(F)%20Lance%20%7BSALVAGED%7D.png
+Peon map sprites by Salvaged
+https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Map%20Sprites/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/Lancer%20(F)%20Blonde%20%7BSALVAGED%7D-stand.png

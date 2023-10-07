@@ -15,9 +15,9 @@ Hunter animations by DertheVaporeon
 https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Bow)%20Archers%20and%20Hunters/%5BArcher-Reskin%5D%20%5BF%5D%20Der's%20Short%20Hair
 Douglas Portrait made by PkMnBro1
 https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Portrait%20Repository/Spriting%20Community%20OC's%20(Grouped%20by%20Artist)/PkMnBro1%20-%20Hans.png 
-Male Mage Knight animations by teraspark
+Male Mage Knight animations by IS, Aruka, Kenpuhu, Teraspark, Seal, Sacred War
 https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Base%5D%20%5BM%5D%20Vanilla%20%2BWeapons
-Female Mage Knight animations by unknown
+Female Mage Knight animations by IS, Aruka, Kenpuhu, Teraspark, Seal, Sacred War
 https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BMK-Base%5D%20%5BF%5D%20Vanilla%20%2BWeapons
 Sentinel Class Card by TBA
 https://github.com/Klokinator/FE-Repo/blob/main/Class%20Cards/Infantry%20-%20(Lnc)%20Soldiers%2C%20Halberdiers/Halberdier%20(M)%20Lance%20%7BTBA%7D.png

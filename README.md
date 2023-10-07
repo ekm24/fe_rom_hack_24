@@ -31,3 +31,5 @@ Lich animations by Huichelear
 https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Custom%5D%20%5BU%5D%20Moloch%20Sorcerer%20by%20Huichelaar
 Lich map sprites by Huichelar
 https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Map%20Sprites/Magi%20-%20Dark-Type/Moloch%20Sorcerer%20(U)%20%7BHuichelaar%7D-walk.png
+Lich Class Card by Huichelar
+https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Class%20Cards/Magi%20-%20Dark-Type/Moloch%20Sorcerer%20(U)%20T2%20Style%20%7BHuichelaar%7D.png

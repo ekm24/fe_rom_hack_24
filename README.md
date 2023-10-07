@@ -27,3 +27,7 @@ Peon Class Card by Salvaged
 https://github.com/Klokinator/FE-Repo/blob/main/Class%20Cards/Infantry%20-%20(Lnc)%20Soldiers%2C%20Halberdiers/Lancer%20(F)%20Lance%20%7BSALVAGED%7D.png
 Peon map sprites by Salvaged
 https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Map%20Sprites/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/Lancer%20(F)%20Blonde%20%7BSALVAGED%7D-stand.png
+Lich animations by Huichelear
+https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Custom%5D%20%5BU%5D%20Moloch%20Sorcerer%20by%20Huichelaar
+Lich map sprites by Huichelar
+https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Map%20Sprites/Magi%20-%20Dark-Type/Moloch%20Sorcerer%20(U)%20%7BHuichelaar%7D-walk.png

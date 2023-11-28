@@ -1,5 +1,5 @@
 # fe_rom_hack_24
-The rom hack was created using fe gba builder.
+The rom hack was created using fe gba builder. I had no part in the creation or development of FEGBA builder, I'm simply storing it here for easy access. I'm not working on a personal computer, and I have one copy of FEGBA builder downloaded on my computer. This way, I can download the updated zip file at one go.
 
 Sentinel animation by Nuramon https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BU%5D%20Sentinel%20by%20Nuramon
 

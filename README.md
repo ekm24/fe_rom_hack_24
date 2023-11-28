@@ -1,6 +1,7 @@
 # fe_rom_hack_24
 The rom hack was created using fe gba builder. I had no part in the creation or development of FEGBA builder, I'm simply storing it here for easy access. I'm not working on a personal computer, and I have one copy of FEGBA builder downloaded on my computer. This way, I can download the updated zip file at one go.
 
+Generic soldier portrait - Flasuban https://github.com/Klokinator/FE-Repo/blob/main/Portrait%20Repository/Generic%20Characters%20(Villagers%2C%20Goons%2C%20and%20Loons)/Flasuban's%20Generic%20Male%20and%20Female%20Soldiers%20(GBAFE%20and%20Tactile%20Format)
 Sentinel animation by Nuramon https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BU%5D%20Sentinel%20by%20Nuramon
 
 Sentinel map sprites created by Dei and Dondon 151

@@ -31,6 +31,7 @@ https://github.com/Klokinator/FE-Repo/blob/main/Class%20Cards/Infantry%20-%20(Ln
 
 Peon animations by Salvaged
 https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BF%5D%20Lancer%20by%20SALVAGED
+Made minor animation fixes on the peon animation in FEGBA builder to fix random crashes - might be caused by one or any of the mods I used. I'll post the full list I used once I complete the mod.
 
 Peon Class Card by Salvaged
 https://github.com/Klokinator/FE-Repo/blob/main/Class%20Cards/Infantry%20-%20(Lnc)%20Soldiers%2C%20Halberdiers/Lancer%20(F)%20Lance%20%7BSALVAGED%7D.png

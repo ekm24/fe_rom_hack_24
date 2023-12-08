@@ -32,6 +32,7 @@ https://github.com/Klokinator/FE-Repo/blob/main/Class%20Cards/Infantry%20-%20(Ln
 
 Peon animations by Salvaged
 https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Lnc)%20Soldiers,%20Halberdiers/%5BCustom%20Lance%5D%20%5BF%5D%20Lancer%20by%20SALVAGED
+
 Made minor animation fixes on the peon animation in FEGBA builder to fix random crashes - might be caused by one or any of the mods I used. I'll post the full list I used once I complete the mod.
 
 Peon Class Card by Salvaged
@@ -48,7 +49,9 @@ https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Map%20Sprites/Magi%20-
 
 Lich Class Card by Huichelar
 https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Class%20Cards/Magi%20-%20Dark-Type/Moloch%20Sorcerer%20(U)%20T2%20Style%20%7BHuichelaar%7D.png
+
 Maligknight Animations by Blue Druid
 https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2FKlokinator%2FFE-Repo%2Ftree%2Fmain%2FBattle%20Animations%2FMounted%20-%20Pegs,%20Wyverns,%20Griffons%2F%5BWK%20Reskin%5D%20%5BU%5D%20Wicked%20Flier%20by%20Blue%20Druid
+
 Maligknight Mapsprites by Pikmin
 https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Map%20Sprites/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/Malig%20Knight%20(M)%20Lance%20%7BPikmin%7D-walk.png

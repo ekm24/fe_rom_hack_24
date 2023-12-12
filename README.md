@@ -5,6 +5,8 @@ Smite, Ignis, Weapon Infusion, Dark Blessing icons made by Jeorge_Reds
 
 Glaicies, Undeath icons made by Meat_of_Justice
 
+Icon Source website: https://feuniverse.us/t/gba-skill-icons-repo/6788/9
+
 Generic soldier portrait - Flasuban https://github.com/Klokinator/FE-Repo/blob/main/Portrait%20Repository/Generic%20Characters%20(Villagers%2C%20Goons%2C%20and%20Loons)/Flasuban's%20Generic%20Male%20and%20Female%20Soldiers%20(GBAFE%20and%20Tactile%20Format)
 Slightly repalleted to suit Renais and Grado.
 

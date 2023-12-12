@@ -7,6 +7,9 @@ Glaicies, Undeath icons made by Meat_of_Justice
 
 Icon Source website: https://feuniverse.us/t/gba-skill-icons-repo/6788/9
 
+Archer animation by Feaw
+https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2FKlokinator%2FFE-Repo%2Ftree%2Fmain%2FBattle%20Animations%2FInfantry%20-%20(Bow)%20Archers%20and%20Hunters%2F%5BArcher-Reskin%5D%20%5BF%5D%20Neimi%20by%20Feaw
+
 Generic soldier portrait - Flasuban https://github.com/Klokinator/FE-Repo/blob/main/Portrait%20Repository/Generic%20Characters%20(Villagers%2C%20Goons%2C%20and%20Loons)/Flasuban's%20Generic%20Male%20and%20Female%20Soldiers%20(GBAFE%20and%20Tactile%20Format)
 Slightly repalleted to suit Renais and Grado.
 

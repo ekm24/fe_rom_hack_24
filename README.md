@@ -55,3 +55,6 @@ https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2FKlokin
 
 Maligknight Mapsprites by Pikmin
 https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Map%20Sprites/Mounted%20-%20Pegs,%20Wyverns,%20Griffons/Malig%20Knight%20(M)%20Lance%20%7BPikmin%7D-walk.png
+
+Knight Axe animations by unknown
+https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2FKlokinator%2FFE-Repo%2Ftree%2Fmain%2FBattle%20Animations%2FInfantry%20-%20Knights,%20Generals,%20Armors%2F%5BKnight-Base%5D%20%5BU%5D%20Vanilla%20%2BWeapons

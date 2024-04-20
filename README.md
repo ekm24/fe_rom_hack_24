@@ -1,5 +1,5 @@
 # fe_rom_hack_24
-The rom hack was created using fe gba builder.
+The rom hack was created using fe gba builder, nightmare modules, and using this tutorial: https://tutorial.feuniverse.us.
 
 Smite, Ignis, Weapon Infusion, Dark Blessing icons made by Jeorge_Reds
 

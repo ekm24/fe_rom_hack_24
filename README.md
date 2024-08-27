@@ -1,6 +1,8 @@
 # fe_rom_hack_24
 The rom hack was created using fe gba builder, nightmare modules, and using this tutorial: https://tutorial.feuniverse.us.
 
+War Cleric and War Monk map sprites by Aruka
+
 War Monk Animation by Zakarias
 https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2FKlokinator%2FFE-Repo%2Ftree%2Fmain%2FBattle%20Animations%2FMagi%20-%20Special%2F%5BFE13-Custom%5D%20%5BM%5D%20Zakarias
 

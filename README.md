@@ -1,6 +1,9 @@
 # fe_rom_hack_24
 The rom hack was created using fe gba builder, nightmare modules, and using this tutorial: https://tutorial.feuniverse.us.
 
+Assasin animations by Huichelaar
+https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Thieves,%20Rogues,%20Assassins/%5BAssassin-Base%5D%20%5BM%5D%20Jaffar%20Vanilla%20Repal%20by%20Huichelaar
+
 War Cleric and War Monk map sprites by Aruka
 
 War Monk Animation by Zakarias
